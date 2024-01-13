@@ -1,5 +1,3 @@
-![Mobile-Flutter: praticando arquitetura clean code](capa.png)
-
 # Flutter: Praticando arquitetura Clean Code
 
 Projeto Hyrule para o curso Flutter: Praticando arquitetura Clean Code, focado em compreender e implementar uma arquitetura limpa em seu projeto.
