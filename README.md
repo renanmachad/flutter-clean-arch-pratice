@@ -1,13 +1,14 @@
 <h1>Flutter: Praticando arquitetura Clean Code
 </h1>
 Projeto Hyrule para o curso Flutter: Praticando arquitetura Clean Code, focado em compreender e implementar uma arquitetura limpa em seu projeto.
-Tópicos abordados no curso:
 
-    Sobre arquitetura limpa;
-    Adaptar a estrutura da arquitetura limpa para um projeto Flutter;
-    As camadas que definem uma arquitetura limpa;
-    Responsabilidades das camadas.
-    Bibliotecas e acoplamentos;
+<h2>Tópicos abordados no curso:
+</h2>
+- Sobre arquitetura limpa;
+- Adaptar a estrutura da arquitetura limpa para um projeto Flutter;
+- As camadas que definem uma arquitetura limpa;
+- Responsabilidades das camadas.
+- Bibliotecas e acoplamentos;
 
 Este curso é indicado para pessoas que já tem conhecimento intermediário e querem aprofundar seu conhecimento em Flutter, seguindo boas práticas e também entendendendo como funciona arquitetura de software dentro dos padrões mobile.
 📑 Requisitos
